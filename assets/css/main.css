@@ -3970,3 +3970,10 @@ input, select, textarea {
 		
 	
 		
+
+
+		@media (max-width:280px) {
+			.h1-logo{
+				font-size: 1.5em;
+			}
+		}
